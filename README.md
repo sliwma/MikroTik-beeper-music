@@ -1,9 +1,7 @@
 # MikroTik-beeper-music
-Scripts using built-in beeper
-
 Useless scripts that allow you playing some tunes.
 
-# Instruction:
+# How to use:
 1) Connect to your MikroTik router using WinBox or WebFig.
 2) Goto System/Scripts.
 3) Click "Add new".
