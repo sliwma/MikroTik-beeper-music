@@ -77,6 +77,8 @@
 :set B3 "987.77";
 
 
+
+
 :beep frequency=$D2 length=1200ms;
 :delay 1500ms;
 :beep frequency=$A1 length=1200ms;
@@ -506,63 +508,6 @@
 :beep frequency=$D2 length=150ms;
 :delay 200ms;
 :beep frequency=$Cp2 length=150ms;
-:delay 200ms;
-
-:beep frequency=$D2 length=250ms;
-:delay 400ms;
-:beep frequency=$B1 length=150ms;
-:delay 200ms;
-:beep frequency=$Cp2 length=150ms;
-:delay 200ms;
-:beep frequency=$D2 length=250ms;
-:delay 400ms;
-:beep frequency=$D2 length=150ms;
-:delay 200ms;
-:beep frequency=$E2 length=150ms;
-:delay 200ms;
-:beep frequency=$Fp1 length=150ms;
-:delay 200ms;
-:beep frequency=$G1 length=150ms;
-:delay 200ms;
-:beep frequency=$Fp1 length=150ms;
-:delay 200ms;
-:beep frequency=$E1 length=150ms;
-:delay 200ms;
-:beep frequency=$Fp1 length=150ms;
-:delay 200ms;
-:beep frequency=$D2 length=150ms;
-:delay 200ms;
-:beep frequency=$Cp2 length=150ms;
-:delay 200ms;
-:beep frequency=$D2 length=150ms;
-:delay 200ms;
-:beep frequency=$B1 length=250ms;
-:delay 400ms;
-:beep frequency=$D2 length=150ms;
-:delay 200ms;
-:beep frequency=$Cp2 length=150ms;
-:delay 200ms;
-:beep frequency=$B1 length=250ms;
-:delay 400ms;
-:beep frequency=$A1 length=150ms;
-:delay 200ms;
-:beep frequency=$G1 length=150ms;
-:delay 200ms;
-:beep frequency=$A1 length=150ms;
-:delay 200ms;
-:beep frequency=$G1 length=150ms;
-:delay 200ms;
-:beep frequency=$Fp1 length=150ms;
-:delay 200ms;
-:beep frequency=$G1 length=150ms;
-:delay 200ms;
-:beep frequency=$A1 length=150ms;
-:delay 200ms;
-:beep frequency=$B1 length=150ms;
-:delay 200ms;
-:beep frequency=$Cp2 length=150ms;
-:delay 200ms;
-:beep frequency=$D2 length=150ms;
 :delay 200ms;
 
 :beep frequency=$D2 length=250ms;
